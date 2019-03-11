@@ -1,5 +1,5 @@
-# See you at Gitlab!
-cytopyge migrated to Gitlab!
+# see you at gitlab.com
+cytopyge migrated
 
 for up-to-date repositories:
 
